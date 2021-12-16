@@ -9,8 +9,8 @@ For this assignment, you'll create some initial plans for your project.
 ### Wireframes
 <ol>
   <li><a href = "https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=0%3A1">Log In Page</a></li>
-  <li><a href = "https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=17%3A4">Log In Page</a></li>
-  <li><a href = "https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=17%3A5">Log In Page</a></li>
+  <li><a href = "https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=17%3A4">Full Calendar Page</a></li>
+  <li><a href = "https://www.figma.com/file/nrnS0g100d9uFQOMoN04Hs/Calendar-of-ultimate-destiny-wireframe?node-id=17%3A5">Event Edit</a></li>
 </ol>
 
 ### Project Tracker
